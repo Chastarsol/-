@@ -2,4 +2,8 @@ donk666
 niko666
 magixx666
 我改的是新建文本文档
+<<<<<<< Updated upstream
 2
+=======
+1
+>>>>>>> Stashed changes
